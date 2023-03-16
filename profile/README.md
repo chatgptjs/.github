@@ -9,6 +9,6 @@
 
 #
 
-### A client-side JavaScript library for ChatGPT.
+### A client-side JavaScript library for ChatGPT 🤖
 
 </div>

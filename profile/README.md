@@ -11,5 +11,4 @@
 
 ### A client-side JavaScript library for ChatGPT.
 
-<br />
 </div>

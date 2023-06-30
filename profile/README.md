@@ -11,4 +11,6 @@
 
 ### A powerful client-side JavaScript library for ChatGPT 🤖
 
+[GitHub](https://github.com/kudoai/chatgpt.js) &nbsp;// &nbsp;[Website](https://chatgpt.js.org)
+
 </div>

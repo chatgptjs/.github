@@ -8,7 +8,7 @@
     </picture>
 </a>
 
-### A powerful client-side JavaScript library for ChatGPT 🤖
+### 🤖 A powerful client-side JavaScript library for ChatGPT
 
 #### [GitHub](https://github.com/KudoAI/chatgpt.js) &nbsp;/ &nbsp;[Website](https://chatgpt.js.org)
 
